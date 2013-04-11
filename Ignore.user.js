@@ -10,7 +10,7 @@
 (function (){
 
 /* EDIT THIS BIT */
-var user = "usernametoignore";
+var user = "QuackBot";
 
 var allElements, thisElement;
 var allElements = document.evaluate("//div[@class='userinfo']",
